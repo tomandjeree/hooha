@@ -1,0 +1,33 @@
+/* Change body to black background, text color white, font text sans-serif*/
+body{background-color: peachpuff;
+	color:black;
+	font-family: "Helvetica", "Arial", sans-serif; /*backup, incase cannot find fond family)*/
+}
+p{
+	margin:10px;
+	padding:50px;
+    /*Adding border*/
+	border-style: solid;
+	border-color: white;
+	border-width:2px;
+	text-align: justify;
+}
+.food{
+	height:100px;
+	opacity:0.8;
+}
+#header1{
+	color:royalblue;
+	text-align: center;
+	margin:30px;
+}
+.link1-and-2{
+	color:salmon;
+}
+/*ul li{
+	background-color: lightpink;*/
+}
+#flower{
+	height: 10px;
+	width: 10px;
+}
